@@ -1,0 +1,128 @@
+body {
+	background-color: #F5BB5D;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto', sans-serif;
+}
+
+.menu1 {
+	color: white;
+	height: 100px;
+	background: /*#696969*//*rgba(105,105,105,0.7)*/rgba(37,41,46,0.6);
+	width: 100%;
+	font-size: 12px;
+	position: fixed;
+	clear: both;
+}
+
+.inner-menu {
+	height: 100px;
+	width: 250px;
+	/*margin-top: 10px;*/
+	padding-top: 10x;
+	text-align: center;
+	float: right;
+	margin-right: 40px;
+
+}
+#con-h {
+	margin-left: 50px;
+}
+.inner-menu ul li {
+	list-style: none;
+	display: inline;
+	margin-left: 10px;
+}
+#menu-account {
+	border-left: 2px solid white;
+	padding-left: 10px;
+	color: rgb(73,172,213);
+
+}
+#menu-acct {
+	border-left: 2px solid white;
+	padding-left: 10px;
+}
+.layer-1 {
+	height: 550px;
+	width: 100%;
+	background-color: grey;
+	background-image: url("../images/farm.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+.focus {
+	height: 380px;
+	width: 500px;
+	position: relative;
+	/*background: rgba(37,41,46,0.6);*/
+	border-radius: 15px;
+	top: 160px;
+	margin-left: 20px;
+	padding-top: 100px;
+	padding-left: 20px;
+	font-family: 'Bungee', cursive;
+	color: white;
+}
+.layer-2 {
+	height: 300px;
+	width: 100%;
+	background-color: rgb(37,41,46);
+	text-align: center;
+	padding-top: 50px;
+	margin: auto;
+}
+.layer-2 ul li {
+	display: inline;
+	list-style: none;
+}
+.product-pane1 {
+	height: 200px;
+	width: 400px;
+	border: 2px solid grey;
+	border-radius: 5px;
+	box-shadow: 2px 2px #888888;
+	display: inline-block;
+
+}
+
+.product-pane2 {
+	height: 200px;
+	width: 400px;
+	border: 2px solid grey;
+	border-radius: 5px;
+	box-shadow: 2px 2px #888888;
+	display: inline-block;
+	margin-left: 20px;
+}
+
+.product-pane3 {
+	height: 200px;
+	width: 400px;
+	border: 2px solid grey;
+	border-radius: 5px;
+	box-shadow: 2px 2px #888888;
+	display: inline-block;
+	margin-left: 20px;
+}
+.banner-down {
+	height: 50px;
+	width: 400px;
+	background: rgba(255,255,255,0.4);
+	position: relative;
+	top: 140px;
+}
+footer {
+	height: 500px;
+	width: 100%;
+	background-color: 
+
+}
+
+
+
+
+
+
