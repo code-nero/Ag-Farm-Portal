@@ -1,5 +1,8 @@
 #index-body {
-	background-color: /*#F5BB5D*/lightgrey;
+	/*background-color: #F5BB5Dlightgrey;*/
+	background: url("../images/profood.jpg") no-repeat top center fixed;
+	background-size: cover;
+	height: 100%;
 	width: 100%;
 	margin: 0;
 	padding: 0;
@@ -123,11 +126,14 @@ footer {
 }
 /*Signin page styling*/
 #signin-body {
-	background-color: lightgrey;
+	/*background-color: lightgreywhite;*/
+	background-image: url("../images/kogifarm.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
 	width: 100%;
 	margin: 0;
 	padding: 0;
-	color: black;
+	color: white;
 }
 .signbox {
 	height: 600px;
@@ -146,14 +152,18 @@ footer {
 	/*border: 2px solid black;*/
 	border-radius: 5px;
 	margin: 20px auto 0 auto;
-	background-image: url("../images/produce.png");
+	/*background-image: url("../images/produce.png");*/
 	background-repeat: no-repeat;
 	background-position: bottom;
 }
 
 /*New Account page styling*/
 #account-body {
-	background-color: lightgrey;
+	/*background-color: lightgrey;*/
+	background-image: url("../images/kogifarm.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100%;
 	width: 100%;
 	margin: 0;
 	padding: 0;
@@ -161,7 +171,7 @@ footer {
 
 }
 .accountbox {
-	color: black;
+	color: white;
 	height: 800px;
 	width: 500px;
 	/*border: 2px solid black;*/
