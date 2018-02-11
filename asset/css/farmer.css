@@ -152,13 +152,37 @@ footer {
 
 /*New Account page styling*/
 #account {
-	background-color: grey;
+	background-color: lightgrey;
 	width: 100%;
 	margin: 0;
 	padding: 0;
 
-}
 
+}
+.accountbox {
+	color: black;
+	height: 800px;
+	width: 500px;
+	/*border: 2px solid black;*/
+	border-radius: 5px;
+	padding-top: 50px;
+	padding-left: 50px;
+	padding-right: 50px;
+	margin: 80px auto 0 auto;
+	background: rgba(3,0,0,0.6);
+
+
+}
+.coverbox {
+	height: 800px;
+	width: 500px;
+	/*border: 2px solid black;*/
+	border-radius: 5px;
+	margin: 20px auto 0 auto;
+	background-image: url("../images/paralax-fruit.png");
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
 
 
 
