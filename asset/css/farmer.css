@@ -133,7 +133,7 @@ footer {
 	width: 100%;
 	margin: 0;
 	padding: 0;
-	color: white;
+	color: black;
 }
 .signbox {
 	height: 600px;
@@ -144,7 +144,7 @@ footer {
 	padding-left: 50px;
 	padding-right: 50px;
 	margin: 80px auto 0 auto;
-	background: rgba(3,0,0,0.6);
+	background: rgba(3,0,0,0.4);
 }
 .outerbox {
 	height: 800px;
@@ -171,7 +171,7 @@ footer {
 
 }
 .accountbox {
-	color: white;
+	color: Black;
 	height: 800px;
 	width: 500px;
 	/*border: 2px solid black;*/
@@ -180,7 +180,7 @@ footer {
 	padding-left: 50px;
 	padding-right: 50px;
 	margin: 80px auto 0 auto;
-	background: rgba(3,0,0,0.6);
+	background: rgba(3,0,0,0.4);
 
 
 }
