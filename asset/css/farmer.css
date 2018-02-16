@@ -122,7 +122,52 @@ footer {
 	height: 500px;
 	width: 100%;
 	background-color: #212d38;
+	color: grey;
+	padding: 50px;
 
+}
+footer ul li {
+	list-style: none;
+}
+.foot-pane1 {
+	width: 250px;
+	height: 300px;
+	float: left;
+	/*border: 2px solid white;*/
+}
+.foot-pane2 {
+	width: 500px;
+	height: 300px;
+	float: left;
+	border-left: 2px solid grey;
+}
+.foot-pane3 {
+	width: 400px;
+	height: 300px;
+	float: left;
+	border-left: 2px solid grey;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.footer-port1 {
+	float: left;
+	width: 150px;
+	/*margin-left: 50px;
+	margin-top: 50px;*/
+
+}
+.footer-port2{
+	/*margin-top: 50px;*/
+	width: 150px;
+	float: left;
+}
+.footer-port3{
+	position: relative;
+	width: 150px;
+	float: left;
+}
+.footer-port3 ul li {
+	display: inline;
 }
 /*Signin page styling*/
 #signin-body {
@@ -171,7 +216,7 @@ footer {
 
 }
 .accountbox {
-	color: Black;
+	color: black;
 	height: 800px;
 	width: 500px;
 	/*border: 2px solid black;*/
@@ -184,6 +229,7 @@ footer {
 
 
 }
+
 .coverbox {
 	height: 800px;
 	width: 500px;
@@ -194,7 +240,11 @@ footer {
 	background-repeat: no-repeat;
 	background-position: bottom;
 }
-
+/*shopping cart styling*/
+.cart-body{
+	background-color: lightblue;
+}
+/*Social media styling*/
 
 
 
